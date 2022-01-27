@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md Kamrul Islam
-- 👀 I’m interested in Geospatial Analyst Job
+- 👀 I’m interested in Geospatial and Envrionmental research 
 - 🌱 I’m currently in my final semester of Applied Geospatial Science(MS), Bowling Green State University, Ohio, USA
-- 💞️ I’m looking to collaborate on any data science or  research work.
+- 💞️ I’m aslo open to collaborate on any data science research work.
 - 📫 Email: Academic: mdkamri@bgsu.edu, Personal: islamkamrul1120@gmail.com
 
 <!---
